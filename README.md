@@ -45,3 +45,10 @@ get-service -displayname Veeam* | start-service
 打开Veeam Backup & Replication Console 软件，点击左上角的菜单，选择License选项，点击install，选择
 
 Veeam_BackupRep_v12_5000_1.lic 文件导入安装即可激活。
+
+#### 参考
+https://zhuanlan.zhihu.com/p/609547018
+
+https://www.dinghui.org/veeam-backup-replication-install.html
+
+https://www.dinghui.org/vmware-vsphere-replication-upgrade.html
